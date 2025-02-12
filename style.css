@@ -11,9 +11,14 @@ a:focus {
     color: red
 }
 
+
+h1,
+h2 {
+    color: white
+}
+
 h1 {
     background-color: darkslateblue;
-    color: white
 }
 
 body {
@@ -22,7 +27,6 @@ body {
 
 h2 {
     background-color: darkslategray;
-    color: white
 }
 
 img {
