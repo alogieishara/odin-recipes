@@ -1,0 +1,39 @@
+* {
+    font-family: 'Verdana', sans-serif;
+}
+
+a {
+    font-size: 18px;
+    color: darkmagenta
+}
+
+a:focus {
+    color: red
+}
+
+h1 {
+    background-color: darkslateblue;
+    color: white
+}
+
+body {
+    background-color: lightslategray;
+}
+
+h2 {
+    background-color: darkslategray;
+    color: white
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 400px;
+}
+
+.home {
+    background-color: darkslateblue;
+    color: white
+}
